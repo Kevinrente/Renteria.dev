@@ -1,10 +1,10 @@
-# 🧑‍💻 Renteria.dev Portfolio Manager
+# 🧑‍💻 Renteria.dev Portafolio Manager
 
 Plataforma web personal profesional, diseñada como carta de presentación dinámica para mostrar proyectos, experiencia y habilidades a reclutadores o clientes. El sistema permite la gestión completa del contenido del portafolio desde un panel administrativo asegurado.
 
 ## 🚀 1. Arquitectura y Stack Tecnológico
 
-* **Core:** Laravel 10/11
+* **Core:** Laravel 12
 * **Base de Datos:** PostgreSQL
 * **Frontend:** Laravel Breeze + Tailwind CSS
 * **Control de Contenido:** El sistema centraliza el CV y los datos de contacto en una única tabla (`profiles`) para gestión simplificada.
